@@ -1,6 +1,7 @@
 👋 Hi, I’m Ashwini
-- To call coding as my passion would be an understatement! 👀 
-- It is a love that has helped me embrace challenges and outdo myself in every step of my career. 💞️ 
+- 👀 To call coding as my passion would be an understatement!  
+- 💞️ I'm a data enthisiast
+- ⚡ Fun fact: If you burned all of the data created in just one day onto DVDs, you could stack them on top of each other and reach the moon – twice.
 
 
 <!--
@@ -18,5 +19,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: If you burned all of the data created in just one day onto DVDs, you could stack them on top of each other and reach the moon – twice.
 -->
