@@ -1,6 +1,6 @@
 👋 Hi, I’m Ashwini
 - 👀 To call coding as my passion would be an understatement!  
-- 💞️ I'm a data enthisiast
+- 💞️ I'm a Data Enthusiast
 - ⚡ Fun fact: If you burned all of the data created in just one day onto DVDs, you could stack them on top of each other and reach the moon – twice.
 
 
